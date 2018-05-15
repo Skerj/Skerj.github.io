@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: My Coding Journey
 header-img: img/home-bg.png
 email: jrmint46@gmail.com
 copyright_name: Skerj
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog about my challenges learning web development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Skerj
